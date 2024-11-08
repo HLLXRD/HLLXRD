@@ -33,6 +33,13 @@ $${\color{black}................................................................
 🪺 My beloved den is UIT - University of Information Technology<br> 🌱 I’m currently learning Artificial Intelligence as a freshman
 <h3>Hobbies</h3>
 📖 I love reading novels<br> 🖥️ Programming makes my tail wag excitingly<br> 🔮 Instead of breathing fire, I can read Tarot!
+<h3>Achievement (nothing much but if you ask...)</h3>
+📃3rd in the "Excellent student at Province level competition" in Physics, 2022-2023<br> 📃2nd in the "Excellent student at Province level competition" in Physics, 2023-2024<br> 📃Consolation prize in the "Excellent student at National level competition" in Physics, 2023-2024<br> Winged by his eagerness, this dragon dream of flying toward many more triumphs! 
+
+
+
+
+
 
 <h2 align="center">Never give up!✊ </h2>
 <h3 align="left">Connect with me:</h3>
