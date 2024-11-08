@@ -20,17 +20,17 @@ $${\color{black}................ \color{white}. \color{black}... \color{white}. 
 $${\color{black}............... \color{white}. \color{black}... \color{white}. \color{black}.... \color{white}. \color{black}... \color{white}. \color{black} ... \color{white}. \color{black}.. \color{yellowgreen}................... \color{gold}..................... \color{yellowgreen}.... \color{gold}.... \color{black}......................}$$
 $${\color{black}.............. \color{white}... \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}.. \color{white}.. \color{black}... \color{yellowgreen}.......... \color{gold}........................... \color{yellowgreen}......... \color{gold}. \color{black}......................}$$
 $${\color{black}.............. \color{yellowgreen}.............................. \color{gold}...................... \color{yellowgreen}..... \color{gold}.. \color{yellowgreen}............ \color{black}....................}$$
-$${\color{black}............... \color{yellowgreen}... \color{black}................... \color{gold}............................. \color{yellowgreen}...... \color{gold}. ............. \color{black}...................}$$
+$${\color{black}............... \color{yellowgreen}... \color{black}................... \color{gold}............................. \color{yellowgreen}...... \color{gold}. \color{yellowgreen}............. \color{black}...................}$$
 $${\color{black}.................................... \color{gold}............................. \color{yellowgreen}...................... \color{black}..................}$$
 $${\color{black}...................................... \color{gold}..................... \color{black}... \color{gold}.. \color{black}.. \color{yellowgreen}...................... \color{black}.................}$$
 $${\color{black}....................................... \color{gold}..... \color{black}......... \color{gold}.. \color{black}.............. \color{yellowgreen}.................... \color{black}................}$$
 $${\color{black}........................................ \color{gold}. \color{black}............................ \color{yellowgreen}.................... \color{black}................}$$
 $${\color{black}..................................................................... \color{yellowgreen}.................... \color{black}................}$$
 $${\color{black}..................................................................... \color{yellowgreen}.................... \color{black}................}$$
-$${\color{black}.........................................................................................................}$$
-$${\color{black}.........................................................................................................}$$
-$${\color{black}.........................................................................................................}$$
-$${\color{black}.........................................................................................................}$$
+$${\color{black}.................................................................... \color{yellowgreen}..................... \color{black}................}$$
+$${\color{black}................................................................... \color{yellowgreen}..................... \color{black}.................}$$
+$${\color{black}.................................................................. \color{yellowgreen}...................... \color{black}.................}$$
+
 
 
 
