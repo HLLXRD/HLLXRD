@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Long, an adventurous dragon </h1>
 
 $${\color{black}.................................................................................. \color{gold}. \color{black}......................}$$
 $${\color{black}.............................................................................. \color{gold}..... \color{black}......................}$$
@@ -16,7 +15,7 @@ $${\color{black}.............. \color{yellowgreen}..............................
 $${\color{black}.............. \color{white}... \color{black}.. \color{white}.. \color{black}.. \color{white}.. \color{black}... \color{white}... \color{white}... \color{yellowgreen}...................... \color{gold}.......................... \color{black}.......................}$$
 $${\color{black}................ \color{white}. \color{black}... \color{white}. \color{black}... \color{white}. \color{black}.... \color{white}. \color{black}.. \color{white}. \color{black}. \color{yellowgreen}...................... \color{gold}............................ \color{black}.....................}$$
 $${\color{black}............... \color{white}. \color{black}... \color{white}. \color{black}.... \color{white}. \color{black}... \color{white}. \color{black} ... \color{white}. \color{black}.. \color{yellowgreen}................... \color{gold}..................... \color{yellowgreen}.... \color{gold}.... \color{black}......................}$$
-$${\color{black}.............. \color{white}... \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}.. \color{white}.. \color{black}... \color{yellowgreen}.......... \color{gold}........................... \color{yellowgreen}......... \color{gold}. \color{black}......................}$$
+$${\color{black}.............. \color{white}... \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}. \color{white}.. \color{black}.. \color{white}.. \color{yellowgreen}............. \color{gold}........................... \color{yellowgreen}......... \color{gold}. \color{black}......................}$$
 $${\color{black}.............. \color{yellowgreen}.............................. \color{gold}...................... \color{yellowgreen}..... \color{gold}.. \color{yellowgreen}............ \color{black}....................}$$
 $${\color{black}............... \color{yellowgreen}... \color{black}................... \color{gold}............................. \color{yellowgreen}...... \color{gold}. \color{yellowgreen}............. \color{black}...................}$$
 $${\color{black}.................................... \color{gold}............................. \color{yellowgreen}...................... \color{black}..................}$$
@@ -28,7 +27,7 @@ $${\color{black}................................................................
 $${\color{black}.................................................................... \color{yellowgreen}..................... \color{black}................}$$
 $${\color{black}................................................................... \color{yellowgreen}..................... \color{black}.................}$$
 $${\color{black}.................................................................. \color{yellowgreen}...................... \color{black}.................}$$
-
+<h1 align="center">Hi 👋, I'm Long, an adventurous dragon </h1>
 ##My nest
 🪺 My beloved nest is UIT - University of Information Technology
 
