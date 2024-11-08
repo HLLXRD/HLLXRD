@@ -28,14 +28,23 @@ $${\color{black}................................................................
 $${\color{black}................................................................... \color{yellowgreen}..................... \color{black}.................}$$
 $${\color{black}.................................................................. \color{yellowgreen}...................... \color{black}.................}$$
 <h1 align="center">Hi 👋, I'm Long, an adventurous dragon </h1>
-##My nest
-🪺 My beloved nest is UIT - University of Information Technology
 
-🌱 I’m currently learning **a**
+<h3>Education</h3>
+🪺 My beloved den is UIT - University of Information Technology 
 
-👯 I’m looking to collaborate on **a**
+🌱 I’m currently learning Artificial Intelligence as a freshman
+<h3>Hobbies</h3>
+📖 I love reading novels 
 
-🤝 I’m looking for help with **a**
+
+🖥️ Programming makes my tail wag excitingly
+
+🔮 Instead of breathing fire, I can read Tarot! 
+
+🔮 
+
+
+🔮 I’m looking for help with **a**
 
 👨‍💻 All of my projects are available at [a](a)
 
