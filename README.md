@@ -34,7 +34,7 @@ $${\color{black}................................................................
 <h3>Hobbies</h3>
 📖 I love reading novels<br> 🖥️ Programming makes my tail wag excitingly<br> 🔮 Instead of breathing fire, I can read Tarot!
 <h3>Achievements (nothing much but if you ask...)</h3>
-📃3rd in the "Excellent student at Province level competition" in Physics, 2022-2023<br> 📃2nd in the "Excellent student at Province level competition" in Physics, 2023-2024<br> 📃Consolation prize in the "Excellent student at National level competition" in Physics, 2023-2024<br> 💯1061 APT <strong>Winged by his eagerness, this dragon dream of flying toward many more triumphs!</strong>
+📃3rd in the "Excellent student at Province level competition" in Physics, 2022-2023<br> 📃2nd in the "Excellent student at Province level competition" in Physics, 2023-2024<br> 📃Consolation prize in the "Excellent student at National level competition" in Physics, 2023-2024<br> 💯1061 APT<br> <strong>Winged by his eagerness, this dragon dream of flying toward many more triumphs!</strong>
 
 
 
